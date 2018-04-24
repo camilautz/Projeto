@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
-<properties>
-<comment>Arquivo de Parâmetros - Feevale</comment>
-<entry key="urlAcesso">jdbc:postgresql://localhost:5432/Banco_SD</entry>
-<entry key="senha">admin</entry>
-<entry key="driverJDBC">org.postgresql.Driver</entry>
-<entry key="usuario">postgres</entry>
-</properties>
